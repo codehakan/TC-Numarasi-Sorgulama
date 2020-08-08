@@ -1,0 +1,10 @@
+C:\Users\HAKANBEY\Desktop\Projelerim\T.C Numarası Sorgulama\T.C Numarası Sorgulama\bin\Debug\T.C Numarası Sorgulama.exe.config
+C:\Users\HAKANBEY\Desktop\Projelerim\T.C Numarası Sorgulama\T.C Numarası Sorgulama\bin\Debug\T.C Numarası Sorgulama.exe
+C:\Users\HAKANBEY\Desktop\Projelerim\T.C Numarası Sorgulama\T.C Numarası Sorgulama\bin\Debug\T.C Numarası Sorgulama.pdb
+C:\Users\HAKANBEY\Desktop\Projelerim\T.C Numarası Sorgulama\T.C Numarası Sorgulama\obj\Debug\T.C Numarası Sorgulama.csprojAssemblyReference.cache
+C:\Users\HAKANBEY\Desktop\Projelerim\T.C Numarası Sorgulama\T.C Numarası Sorgulama\obj\Debug\T.C_Numarası_Sorgulama.Form1.resources
+C:\Users\HAKANBEY\Desktop\Projelerim\T.C Numarası Sorgulama\T.C Numarası Sorgulama\obj\Debug\T.C_Numarası_Sorgulama.Properties.Resources.resources
+C:\Users\HAKANBEY\Desktop\Projelerim\T.C Numarası Sorgulama\T.C Numarası Sorgulama\obj\Debug\T.C Numarası Sorgulama.csproj.GenerateResource.cache
+C:\Users\HAKANBEY\Desktop\Projelerim\T.C Numarası Sorgulama\T.C Numarası Sorgulama\obj\Debug\T.C Numarası Sorgulama.csproj.CoreCompileInputs.cache
+C:\Users\HAKANBEY\Desktop\Projelerim\T.C Numarası Sorgulama\T.C Numarası Sorgulama\obj\Debug\T.C Numarası Sorgulama.exe
+C:\Users\HAKANBEY\Desktop\Projelerim\T.C Numarası Sorgulama\T.C Numarası Sorgulama\obj\Debug\T.C Numarası Sorgulama.pdb
